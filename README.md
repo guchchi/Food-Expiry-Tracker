@@ -1,60 +1,40 @@
 # 🧊 Food Expiry Tracker App
 
-A simple and practical Streamlit web app to help reduce household food waste by tracking expiry dates.
+A simple, beginner-friendly Python and Streamlit web app that helps you **track food expiry dates** in your kitchen to reduce waste and save money.
 
 ---
 
-## 🌟 Features
+## 🌟 Problem Statement
 
-✅ Add food items with name, quantity, expiry date  
-✅ Edit and delete items easily  
-✅ Data saved locally (JSON) between sessions  
-✅ Clean, user-friendly interface  
-✅ Barcode scanning button (🚀 *Coming Soon!*)  
-✅ Built with Python and Streamlit
+> Every day, tons of food expires unseen in our fridges and pantries. This app is designed to help you track those expiry dates so you can use what you have before it's too late.
 
 ---
 
-## 💡 Why This App?
+## ✅ Features
 
-> Every day, tons of food expires unnoticed in our kitchens, contributing to waste and environmental harm.  
-> This app helps you track what's in your fridge or pantry before it goes bad.
+- 📌 Add new food items with name, quantity, and expiry date
+- 📝 Edit and delete items easily
+- 💾 Data saved locally in JSON (no database needed)
+- 🧭 Clean and simple Streamlit interface
+- 🎯 "Scan Barcode" button (🚀 Coming Soon)
+- 📜 About the Creator section with social links
+  
 
 ---
 
-## 🚀 How to Run
 
-1️⃣ Clone this repo
+
+## 🛠️ Tech Stack
+
+- **Python 3**
+- **Streamlit** for UI
+- **JSON** for local data storage
+
+---
+
+## ⚙️ How to Run Locally
+
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/yourusername/food-expiry-tracker.git
 cd food-expiry-tracker
-
-2️⃣ Install dependencies
-pip install streamlit
-
-3️⃣ Run the app
-streamlit run app.py
-
-
-📸 Demo
-
-<img width="1007" height="918" alt="image" src="https://github.com/user-attachments/assets/9f87d422-bbf4-42ff-ad83-b592262c2473" />
-<img width="1059" height="921" alt="image" src="https://github.com/user-attachments/assets/828fa4b1-803c-48cb-b83a-87e0e1edd85b" />
-
-🛠️ Tech Stack
-Python 3
-Streamlit for UI
-JSON for local data storage
-
-
-📈 Roadmap
-✅ Basic item tracking
-✅ Editing and deleting
-🚀 Barcode scanning (Coming Soon!)
-🔔 Notifications/reminders (Planned)
-☁️ Cloud storage integration (Planned)
-
-📜 License
-MIT License — feel free to use and modify!
-
-
