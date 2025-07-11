@@ -67,7 +67,7 @@ def main():
 
     st.divider()
 
-    # Add new item
+    # Add new items
     st.subheader("➕ Add Food Item")
     with st.form("add_form"):
         name = st.text_input("Food Name")
