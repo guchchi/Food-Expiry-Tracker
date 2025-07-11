@@ -54,10 +54,8 @@ def edit_item(index, name, quantity, expiry_date):
 # --------------------
 
 def main():
-    st.set_page_config(page_title="Food Expiry Tracker", page_icon="♻️ ")
-    st.title("🥫 Food Expiry Tracker ♻️"
-
-")
+    st.set_page_config(page_title="Food Expiry Tracker", page_icon="🍲")
+    st.title("🥫 Food Expiry Tracker")
     st.markdown("> Reduce waste by tracking your food expiry dates!")
 
     st.divider()
@@ -158,16 +156,14 @@ def main():
 
     st.markdown("### 🔗 Connect with Me:")
     st.markdown("""
-- 📱 [WhatsApp](https://wa.me/919319266920?text=Hi%20Ayush%20Paul%2C%20I%20saw%20your%20Food%20Expiry%20Tracker%20project%20and%20I%E2%80%99m%20interested%20in%20learning%20more%20about%20it.
-- 📧 [Email](mailto:hello.ayushishere@gmail.com)
-- 📺 [YouTube](https://youtube.com/@ayushpaul24?si=FIWd94q2a5-NiFp-)
-- 💼 [LinkedIn](https://www.linkedin.com/in/paulayush/)
-- 📷 [Instagram](https://www.instagram.com/itx_guchchi1717/)
-- 🐱 [GitHub](https://github.com/guchchi)
+- 📱 [WhatsApp](https://wa.me/91XXXXXXXXXX)
+- 📺 [YouTube](https://youtube.com/@yourchannel)
+- 💼 [LinkedIn](https://linkedin.com/in/ayushpaul)
+- 📷 [Instagram](https://instagram.com/yourhandle)
+- 🐱 [GitHub](https://github.com/ayushpaul)
     """)
 
     st.caption("© 2025 Ayush Paul | Food Expiry Tracker v1.0")
 
 if __name__ == "__main__":
-    
     main()
