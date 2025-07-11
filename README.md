@@ -29,3 +29,32 @@ A simple and practical Streamlit web app to help reduce household food waste by 
 git clone https://github.com/yourusername/food-expiry-tracker.git
 cd food-expiry-tracker
 
+2️⃣ Install dependencies
+pip install streamlit
+
+3️⃣ Run the app
+streamlit run app.py
+
+
+📸 Demo
+
+<img width="1007" height="918" alt="image" src="https://github.com/user-attachments/assets/9f87d422-bbf4-42ff-ad83-b592262c2473" />
+<img width="1059" height="921" alt="image" src="https://github.com/user-attachments/assets/828fa4b1-803c-48cb-b83a-87e0e1edd85b" />
+
+🛠️ Tech Stack
+Python 3
+Streamlit for UI
+JSON for local data storage
+
+
+📈 Roadmap
+✅ Basic item tracking
+✅ Editing and deleting
+🚀 Barcode scanning (Coming Soon!)
+🔔 Notifications/reminders (Planned)
+☁️ Cloud storage integration (Planned)
+
+📜 License
+MIT License — feel free to use and modify!
+
+
